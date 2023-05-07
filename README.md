@@ -1,6 +1,5 @@
 <h1 align="center">
-
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=FF20A100&width=435&lines=Hi++!!++Its+me+Proteti+Mitra" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=FF20A100&width=435&lines=Hi++!!++its+me+Proteti+Mitra" &center=true&size=30 /></a>
 </h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
