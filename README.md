@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Proteti Mitra</h1>
+<h1 align="center">
+
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=FF20A100&width=435&lines=Hi++!!++Its+me+Proteti+Mitra" alt="Typing SVG" /></a>
+</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/45157446/161337980-87a1b2e4-99ea-4fc8-ab1e-faa61357b40d.gif">
