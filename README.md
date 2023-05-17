@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=protetimitra&label=Profile%20views&color=0e75b6&style=flat" alt="protetimitra" /> </p>
 
-- 🔭 I’m currently working on **Hotel and food delivery management system using React**
+- 🔭 I’m currently working on **Hotel and food delivery management system using React **
 
 - 🌱 I’m currently learning **React,Angular and Springboot**
 
